@@ -1,0 +1,5 @@
+{
+  "name": "Event Report Form",
+  "description": "A simple web application to fill out an event report and send the details via WhatsApp.",
+  "requestFramePermissions": []
+}
